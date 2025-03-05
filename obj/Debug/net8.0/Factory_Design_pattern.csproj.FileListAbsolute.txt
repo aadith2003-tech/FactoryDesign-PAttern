@@ -1,0 +1,14 @@
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\bin\Debug\net8.0\Factory_Design_pattern.exe
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\bin\Debug\net8.0\Factory_Design_pattern.deps.json
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\bin\Debug\net8.0\Factory_Design_pattern.runtimeconfig.json
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\bin\Debug\net8.0\Factory_Design_pattern.dll
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\bin\Debug\net8.0\Factory_Design_pattern.pdb
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\obj\Debug\net8.0\Factory_Design_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\obj\Debug\net8.0\Factory_Design_pattern.AssemblyInfoInputs.cache
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\obj\Debug\net8.0\Factory_Design_pattern.AssemblyInfo.cs
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\obj\Debug\net8.0\Factory_Design_pattern.csproj.CoreCompileInputs.cache
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\obj\Debug\net8.0\Factory_Design_pattern.dll
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\obj\Debug\net8.0\refint\Factory_Design_pattern.dll
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\obj\Debug\net8.0\Factory_Design_pattern.pdb
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\obj\Debug\net8.0\Factory_Design_pattern.genruntimeconfig.cache
+C:\Users\u734579\source\repos\Factory_Design_pattern\Factory_Design_pattern\obj\Debug\net8.0\ref\Factory_Design_pattern.dll
